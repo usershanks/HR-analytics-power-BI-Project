@@ -130,10 +130,6 @@ You can also group data by month using the **Group By** feature to calculate agg
 
 ---
 
-## Step 4: Loading Clean Data into Power BI or Excel
-Once the data is cleaned, click **Close & Load** to load the processed data back into Excel or Power BI for visualization or further analysis.
-
----
 
 ## Practical Use Cases
 
